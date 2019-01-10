@@ -1,2 +1,1 @@
-# MiniTwilio
 # LotterSystem
